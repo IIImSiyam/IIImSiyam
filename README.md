@@ -8,7 +8,7 @@
 
 🎤 Like to share my knowledge </p> 
 
-![Profile views](https://www.facebook.com/IIImSiyamFans)
+
 
 <p align="left"> <a href="https://twitter.com/IIImSiyam" target="blank"><img src="https://img.shields.io/twitter/follow/IIImSiyam?logo=twitter&style=for-the-badge" alt="IIImSiyam" /></a> </p>
 
@@ -64,7 +64,7 @@ Side Quests:
 
 ✅ Photoshop / Illustrator <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
+
 
 ## ☕ Connect with me!
 

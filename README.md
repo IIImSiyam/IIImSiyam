@@ -10,7 +10,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/IIImSiyam" target="blank"><img src="https://img.shields.io/twitter/follow/IIImSiyam?logo=twitter&style=for-the-badge" alt="IIImSiyam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ProgrammerSiyam" target="blank"><img src="https://img.shields.io/twitter/follow/ProgrammerSiyam?logo=twitter&style=for-the-badge" alt="ProgrammerSiyam" /></a> </p>
 
 ## 🚀 About Me
 
@@ -72,7 +72,7 @@ Side Quests:
 
 ## 📧 For Business Inquiries 
 
-✅  ► iiimsiyam@gmail.com
+✅  ► programmersiyam1@gmail.com
 
 
 
